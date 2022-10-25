@@ -22,3 +22,7 @@
     * WHEN I click on a city in the search history
         * THEN I am again presented with current and future conditions for that city
 
+## assets
+
+<img width="600" alt="Screen Shot 2022-10-25 at 6 06 45 PM" src="https://user-images.githubusercontent.com/112514096/197898668-07ccf079-a14b-4b11-b964-77223b71bbc2.png">
+
