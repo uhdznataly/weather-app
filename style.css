@@ -11,5 +11,29 @@
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #43AFFC;
+    background: pink;
+  }
+  ::selection{
+    color: #fff;
+    background: pink;
+  }
+  .wrapper{
+    width: 400px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.05);
+  }
+  .wrapper header{
+    display: flex;
+    font-size: 25px;
+    font-weight: 500;
+    color: purple;
+    padding: 16px 15px;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+  }
+  header i{
+    font-size: 0em;
+    cursor: pointer;
+    margin-right: 8px;
   }
